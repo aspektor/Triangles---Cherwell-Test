@@ -19,7 +19,9 @@
  
 
 To run:
-Open the solution vith VS 2017, run it.
+	1. Open the solution vith VS 2017
+	2. Start Trinagles project
+	3. Rightclick JSTest project => Debug => Start New Instance
 
 1-A: Open this url in new browser:
 Signature:
