@@ -101,12 +101,12 @@ namespace Tringles.Controllers
 
             try
             {
-                // On left triange V1 and V2 have the same X:
+                // On a left triange V1 and V2 have the same X:
                 bool    isLeftTria  = (x1 == x2);
                 // Getting Column
-                int     Col         = x2 / 10 * 2 + (isLeftTria ? 1 : 0);
+                int     Col         = (x2 / 10) * 2 + (isLeftTria ? 0 : 1) + 1;
                 // Since V2 is the same for Left and Right Triangle, we use it for calculation in both cases
-                char    Row         = (char) ('A' + x2/10);
+                char    Row         = (char) ('A' + y2/10);
 
                 return new JsonResult(new { Row, Col });
             }

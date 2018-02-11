@@ -1,0 +1,17 @@
+C:\work\Test\JSTest\JSTest\bin\Debug\ReverseMap\resources.pri
+C:\work\Test\JSTest\JSTest\bin\Debug\AppxManifest.xml
+C:\work\Test\JSTest\JSTest\bin\Debug\JSTest.build.appxrecipe
+C:\work\Test\JSTest\JSTest\bld\Debug\JSTest.jsproj.CoreCompileInputs.cache
+C:\work\Test\JSTest\JSTest\bld\Debug\ResourceHandlingTask.state
+C:\work\Test\JSTest\JSTest\bld\Debug\priconfig.xml
+C:\work\Test\JSTest\JSTest\bld\Debug\priconfig.xml.intermediate
+C:\work\Test\JSTest\JSTest\bld\Debug\layout.resfiles
+C:\work\Test\JSTest\JSTest\bld\Debug\layout.resfiles.intermediate
+C:\work\Test\JSTest\JSTest\bld\Debug\resources.resfiles
+C:\work\Test\JSTest\JSTest\bld\Debug\resources.resfiles.intermediate
+C:\work\Test\JSTest\JSTest\bld\Debug\pri.resfiles
+C:\work\Test\JSTest\JSTest\bld\Debug\pri.resfiles.intermediate
+C:\work\Test\JSTest\JSTest\bld\Debug\qualifiers.txt
+C:\work\Test\JSTest\JSTest\bld\Debug\qualifiers.txt.intermediate
+C:\work\Test\JSTest\JSTest\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\work\Test\JSTest\JSTest\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEX-XPS</Machine>
+    <WindowsUser>ya</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ca10a4ef-c975-4d10-9408-91951b26c9b8</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ya</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\work\Triangles\JSTest\JSTest\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\work\Triangles\JSTest\JSTest\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>124936527963C932F72D0DBB5C44C0F018A30642B9BF89CF49810ABD70A3E401</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ca10a4ef-c975-4d10-9408-91951b26c9b8_1.0.0.0_neutral__vvnfb2518vfdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ca10a4ef-c975-4d10-9408-91951b26c9b8_vvnfb2518vfdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ca10a4ef-c975-4d10-9408-91951b26c9b8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ya</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\work\Triangles\JSTest\JSTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-11T18:07:47.682</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\triangles.png">
+      <PackagePath>images\triangles.png</PackagePath>
+      <Modified>2018-02-11T18:04:56.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-28T19:42:02.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-02-11T18:13:21.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-02-11T17:50:36.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-02-11T14:56:25.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Triangles\JSTest\JSTest\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-11T18:07:47.490</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
