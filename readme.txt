@@ -23,6 +23,9 @@ To run:
 	2. Start Trinagles project
 	3. Rightclick JSTest project => Debug => Start New Instance
 
+
+OR, to run it from a browser:
+
 1-A: Open this url in new browser:
 Signature:
 	GetCoordinates/{RowCol})
